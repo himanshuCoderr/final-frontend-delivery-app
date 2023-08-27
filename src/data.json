@@ -1,0 +1,483 @@
+{
+  "Recommended": [
+    {
+      "id": 0,
+      "name": "Margherita",
+      "description": "Description Description Description Description",
+      "price": 17,
+      "image": "https://i.imgur.com/8B8YLOo.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Pepperoni",
+      "description": "Description Description Description Description",
+      "price": 20,
+      "image": "https://i.imgur.com/OHHctnf.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Rome",
+      "description": "Description Description Description Description",
+      "price": 25.75,
+      "image": "https://i.imgur.com/3ZTwCfz.png"
+    },
+    {
+      "id": 3,
+      "name": "American Spicy",
+      "description": "Description Description Description Description",
+      "price": 30.25,
+      "image": "https://i.imgur.com/dyoOLCO.png"
+    },
+    {
+      "id": 4,
+      "name": "Quattro Stagioni",
+      "description": "Description Description Description Description",
+      "price": 27.25,
+      "image": "https://i.imgur.com/wOEuXuV.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Pork & Feta",
+      "description": "Description Description Description Description",
+      "price": 27.25,
+      "image": "https://i.imgur.com/48Zw4K3.png"
+    }
+  ],
+  "Appetizer": [
+    {
+      "id": 0,
+      "name": "Bolognese",
+      "description": "Our fried rice is made from the finest ingredients and veggie...",
+      "price": 28,
+      "image": "https://i.imgur.com/IXDJ52k.png"
+    },
+    {
+      "id": 1,
+      "name": "Carbonara",
+      "description": "Our fried rice is made from the finest ingredients and veggie...",
+      "price": 28,
+      "image": "https://i.imgur.com/3jKSuUu.png"
+    },
+    {
+      "id": 2,
+      "name": "Caesar",
+      "description": "Our fried rice is made from the finest ingredients and veggie...",
+      "price": 20,
+      "image": "https://i.imgur.com/QWXH2NC.png"
+    },
+    {
+      "id": 3,
+      "name": "Greek",
+      "description": "Our fried rice is made from the finest ingredients and veggie...",
+      "price": 20,
+      "image": "https://i.imgur.com/qChqf83.png"
+    }
+  ],
+  "Appetizer2": [
+    {
+      "id": 0,
+      "name": "Bolognese",
+      "description": "Our fried rice is made from the finest ingredients and veggie...",
+      "price": 28,
+      "image": "https://i.imgur.com/IXDJ52k.png"
+    },
+    {
+      "id": 1,
+      "name": "Carbonara",
+      "description": "Our fried rice is made from the finest ingredients and veggie...",
+      "price": 28,
+      "image": "https://i.imgur.com/3jKSuUu.png"
+    },
+    {
+      "id": 2,
+      "name": "Caesar",
+      "description": "Our fried rice is made from the finest ingredients and veggie...",
+      "price": 20,
+      "image": "https://i.imgur.com/QWXH2NC.png"
+    },
+    {
+      "id": 3,
+      "name": "Greek",
+      "description": "Our fried rice is made from the finest ingredients and veggie...",
+      "price": 20,
+      "image": "https://i.imgur.com/qChqf83.png"
+    }
+  ],
+  "Veg": [
+    {
+      "id": 0,
+      "name": "Caesar",
+      "description": "Our fried rice is made from the finest ingredients and veggie...",
+      "price": 20,
+      "image": "https://i.imgur.com/QWXH2NC.png"
+    },
+    {
+      "id": 1,
+      "name": "Greek",
+      "description": "Our fried rice is made from the finest ingredients and veggie...",
+      "price": 20,
+      "image": "https://i.imgur.com/qChqf83.png"
+    },
+    {
+      "id": 2,
+      "name": "Tuna",
+      "description": "Our fried rice is made from the finest ingredients and veggie...",
+      "price": 20,
+      "image": "https://i.imgur.com/Ph0IjrX.png"
+    },
+    {
+      "id": 3,
+      "name": "Caesar",
+      "description": "Our fried rice is made from the finest ingredients and veggie...",
+      "price": 20,
+      "image": "https://i.imgur.com/QWXH2NC.png"
+    },
+    {
+      "id": 4,
+      "name": "Greek",
+      "description": "Our fried rice is made from the finest ingredients and veggie...",
+      "price": 20,
+      "image": "https://i.imgur.com/qChqf83.png"
+    }
+  ],
+  "dessert": [
+    {
+      "id": 0,
+      "name": "Brownie",
+      "description": "Our fried rice is made from the finest ingredients and veggie...",
+      "price": 15,
+      "image": "https://i.imgur.com/7WbfaDN.png"
+    },
+    {
+      "id": 1,
+      "name": "Chocolate Tortilla",
+      "description": "Our fried rice is made from the finest ingredients and veggie...",
+      "price": 12,
+      "image": "https://i.imgur.com/Mgsc3IZ.png"
+    },
+    {
+      "id": 2,
+      "name": "Apple Pie",
+      "description": "Our fried rice is made from the finest ingredients and veggie...",
+      "price": 15,
+      "image": "https://i.imgur.com/OWIVhWX.png"
+    },
+    {
+      "id": 3,
+      "name": "Cheesecake",
+      "description": "Our fried rice is made from the finest ingredients and veggie...",
+      "price": 15,
+      "image": "https://i.imgur.com/AsldA7x.png"
+    }
+  ],
+  "NonVeg": [
+    {
+      "id": 0,
+      "name": "Chicken Biryani",
+      "description": "Our fried rice is made from the finest ingredients and veggie...",
+      "price": 150,
+      "image": "https://images.unsplash.com/photo-1631515243349-e0cb75fb8d3a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hpY2tlbiUyMGJpcnlhbml8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 1,
+      "name": "Chicken Biryani",
+      "description": "Our fried rice is made from the finest ingredients and veggie...",
+      "price": 150,
+      "image": "https://images.unsplash.com/photo-1631515243349-e0cb75fb8d3a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hpY2tlbiUyMGJpcnlhbml8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 2,
+      "name": "Chicken Biryani",
+      "description": "Our fried rice is made from the finest ingredients and veggie...",
+      "price": 150,
+      "image": "https://images.unsplash.com/photo-1631515243349-e0cb75fb8d3a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hpY2tlbiUyMGJpcnlhbml8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 3,
+      "name": "Chicken Biryani",
+      "description": "Our fried rice is made from the finest ingredients and veggie...",
+      "price": 150,
+      "image": "https://images.unsplash.com/photo-1631515243349-e0cb75fb8d3a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hpY2tlbiUyMGJpcnlhbml8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+    }
+  ],
+  "Chineese": [
+    {
+      "id": 0,
+      "name": "Bolognese",
+      "description": "Our fried rice is made from the finest ingredients and veggie...",
+      "price": 28,
+      "image": "https://i.imgur.com/IXDJ52k.png"
+    },
+    {
+      "id": 1,
+      "name": "Carbonara",
+      "description": "Our fried rice is made from the finest ingredients and veggie...",
+      "price": 28,
+      "image": "https://i.imgur.com/3jKSuUu.png"
+    },
+    {
+      "id": 2,
+      "name": "Hot Pastrami",
+      "description": "Our fried rice is made from the finest ingredients and veggie...",
+      "price": 27.25,
+      "image": "https://i.imgur.com/ipMA5LP.png"
+    },
+    {
+      "id": 3,
+      "name": "Pastrami",
+      "description": "Our fried rice is made from the finest ingredients and veggie...",
+      "price": 27.25,
+      "image": "https://i.imgur.com/yOe5RtC.png"
+    },
+    {
+      "id": 4,
+      "name": "Carnivora",
+      "description": "Our fried rice is made from the finest ingredients and veggie...",
+      "price": 27.25,
+      "image": "https://i.imgur.com/0vPtSSO.png"
+    }
+  ],
+  "BreakFast": [
+    {
+      "id": 0,
+      "name": "Caesar",
+      "description": "Our fried rice is made from the finest ingredients and veggie...",
+      "price": 20,
+      "image": "https://i.imgur.com/QWXH2NC.png"
+    },
+    {
+      "id": 1,
+      "name": "Greek",
+      "description": "Our fried rice is made from the finest ingredients and veggie...",
+      "price": 20,
+      "image": "https://i.imgur.com/qChqf83.png"
+    },
+    {
+      "id": 2,
+      "name": "Tuna",
+      "description": "Our fried rice is made from the finest ingredients and veggie...",
+      "price": 20,
+      "image": "https://i.imgur.com/Ph0IjrX.png"
+    },
+    {
+      "id": 3,
+      "name": "Tuna",
+      "description": "Our fried rice is made from the finest ingredients and veggie...",
+      "price": 20,
+      "image": "https://i.imgur.com/Ph0IjrX.png"
+    }
+  ],
+  "foods": [
+    {
+      "id": 0,
+      "name": "Chicken Biryani",
+      "description": "Our fried rice is made from the finest ingredients and veggie...",
+      "price": 150,
+      "image": "https://images.unsplash.com/photo-1631515243349-e0cb75fb8d3a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hpY2tlbiUyMGJpcnlhbml8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 0,
+      "name": "Caesar",
+      "description": "Our fried rice is made from the finest ingredients and veggie...",
+      "price": 20,
+      "image": "https://i.imgur.com/QWXH2NC.png"
+    },
+    {
+      "id": 1,
+      "name": "Greek",
+      "description": "Our fried rice is made from the finest ingredients and veggie...",
+      "price": 20,
+      "image": "https://i.imgur.com/qChqf83.png"
+    },
+    {
+      "id": 0,
+      "name": "Margherita",
+      "description": "Description Description Description Description",
+      "price": 17,
+      "image": "https://i.imgur.com/8B8YLOo.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Pepperoni",
+      "description": "Description Description Description Description",
+      "price": 20,
+      "image": "https://i.imgur.com/OHHctnf.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Rome",
+      "description": "Description Description Description Description",
+      "price": 25.75,
+      "image": "https://i.imgur.com/3ZTwCfz.png"
+    },
+    {
+      "id": 3,
+      "name": "American Spicy",
+      "description": "Description Description Description Description",
+      "price": 30.25,
+      "image": "https://i.imgur.com/dyoOLCO.png"
+    },
+    {
+      "id": 4,
+      "name": "Quattro Stagioni",
+      "description": "Description Description Description Description",
+      "price": 27.25,
+      "image": "https://i.imgur.com/wOEuXuV.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Pork & Feta",
+      "description": "Description Description Description Description",
+      "price": 27.25,
+      "image": "https://i.imgur.com/48Zw4K3.png"
+    },
+    {
+      "id": 0,
+      "name": "Bolognese",
+      "description": "Our fried rice is made from the finest ingredients and veggie...",
+      "price": 28,
+      "image": "https://i.imgur.com/IXDJ52k.png"
+    },
+    {
+      "id": 1,
+      "name": "Carbonara",
+      "description": "Our fried rice is made from the finest ingredients and veggie...",
+      "price": 28,
+      "image": "https://i.imgur.com/3jKSuUu.png"
+    },
+    {
+      "id": 2,
+      "name": "Hot Pastrami",
+      "description": "Our fried rice is made from the finest ingredients and veggie...",
+      "price": 27.25,
+      "image": "https://i.imgur.com/ipMA5LP.png"
+    },
+    {
+      "id": 3,
+      "name": "Pastrami",
+      "description": "Our fried rice is made from the finest ingredients and veggie...",
+      "price": 27.25,
+      "image": "https://i.imgur.com/yOe5RtC.png"
+    },
+    {
+      "id": 4,
+      "name": "Carnivora",
+      "description": "Our fried rice is made from the finest ingredients and veggie...",
+      "price": 27.25,
+      "image": "https://i.imgur.com/0vPtSSO.png"
+    }
+  ],
+  "users": [
+    {
+      "name": "Sunil malhotra",
+      "gender": "male",
+      "contact": "8814049428",
+      "date": "2023-08-12",
+      "state": "Panipat",
+      "address": "Ward no.6",
+      "city": "SAMALKHA",
+      "pincode": "132101",
+      "password": "123",
+      "confirmPassword": "123",
+      "rememberMeChecked": true,
+      "agreeCheck": true,
+      "id": "8814049428"
+    },
+    {
+      "name": "Manisha yadav",
+      "gender": "Female",
+      "contact": "9356319348",
+      "date": "2014-02-13",
+      "state": "Maharastra",
+      "address": "Indra nagar",
+      "city": "Nashik",
+      "pincode": "422008",
+      "password": "123",
+      "confirmPassword": "123",
+      "rememberMeChecked": true,
+      "agreeCheck": true,
+      "id": "9356319348"
+    }
+  ],
+  "cart": [
+    {
+      "img": "https://i.imgur.com/OHHctnf.jpg",
+      "name": "Pepperoni",
+      "price": 20,
+      "description": "Description Description Description Description",
+      "quantity": 5,
+      "id": 2,
+      "uniqueId": 2
+    },
+    {
+      "img": "https://i.imgur.com/48Zw4K3.png",
+      "name": "Pork & Feta",
+      "price": 27.25,
+      "description": "Description Description Description Description",
+      "quantity": 7,
+      "id": 4,
+      "uniqueId": 4
+    },
+    {
+      "img": "https://images.unsplash.com/photo-1631515243349-e0cb75fb8d3a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hpY2tlbiUyMGJpcnlhbml8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+      "name": "Chicken Biryani",
+      "price": 150,
+      "description": "Our fried rice is made from the finest ingredients and veggie...",
+      "quantity": 4,
+      "id": 5,
+      "uniqueId": 5
+    },
+    {
+      "img": "https://i.imgur.com/qChqf83.png",
+      "name": "Greek",
+      "price": 20,
+      "description": "Our fried rice is made from the finest ingredients and veggie...",
+      "quantity": 2,
+      "id": 6
+    }
+  ],
+  "OrderHistory": [
+    {
+      "orderId": "sdv456shaZbsc",
+      "date": "23-2-23",
+      "items": "2",
+      "Amount": "400",
+      "Status": "In Process"
+    },
+    {
+      "orderId": "sdv456aszdbsc",
+      "date": "24-3-23",
+      "items": "3",
+      "Amount": "500",
+      "Status": "Delivered"
+    },
+    {
+      "orderId": "sd256shdbsc",
+      "date": "22-2-23",
+      "items": "2",
+      "Amount": "450",
+      "Status": "In Process"
+    },
+    {
+      "orderId": "sdv456shaawbsc",
+      "date": "21-2-23",
+      "items": "2",
+      "Amount": "200",
+      "Status": "Delivered"
+    },
+    {
+      "orderId": "assdv56shdbsc",
+      "date": "24-2-23",
+      "items": "5",
+      "Amount": "700",
+      "Status": "In Process"
+    },
+    {
+      "orderId": "sd1236shdbsc",
+      "date": "21-2-23",
+      "items": "5",
+      "Amount": "300",
+      "Status": "In Process"
+    }
+  ]
+}

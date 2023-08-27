@@ -1,0 +1,13 @@
+{
+    "/Recommended": "/Recommended",
+    "/Appetizer": "/Appetizer",
+    "/Appetizer2": "/Appetizer2",
+    "/Veg": "/Veg",
+    "/dessert": "/dessert",
+    "/NonVeg": "/NonVeg",
+    "/Chineese": "/Chineese",
+    "/BreakFast": "/BreakFast",
+    "/users": "/users",
+    "/users/:userId/cart": "/users/:userId/cart"
+  }
+  
